@@ -1,2 +1,4 @@
 # Gs-Governanca
-GS-Parducci
+Integrantes:
+Rafael Bueno Villela - RM550275
+Hugo Antônio Oliveira - RM 550153
